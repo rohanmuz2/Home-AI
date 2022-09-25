@@ -1,7 +1,7 @@
 """
 The methods for loading Home Assistant integrations.
 
-This module has quite some complex parts. I have tried to add as much
+module has quite some complex parts. I have tried to add as much
 documentation as possible to keep it understandable.
 """
 from __future__ import annotations
