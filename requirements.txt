@@ -2,7 +2,7 @@
 
 # Home Assistant Core
 aiohttp==3.7.4.post0
-astral==2.2
+astral==2.4
 async_timeout==3.0.1
 attrs==21.2.0
 awesomeversion==21.8.1
